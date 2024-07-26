@@ -1,100 +1,81 @@
-Johnny Coder
+Cassidy Nelemans
 ============
 
 ----
 
->  In this style, the resume starts with a blockquote, where
->  you can briefly list your specialties, or include a salient
->  quote. Ending a line with a backslash forces a line break.
+>  Senior Operations Engineer | Software Engineer with extensive experience in architecting and supporting highly available and scalable infrastructure.
+>  Proficient in large-scale cloud migrations, development workflow improvements, and increasing automation through CI/CD practices. Adapt rapidly to change and a strong advocate for DevOps principles.
 
 ----
 
 Education
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+2006 - 2010
+:   **Bachelor of Science - Business Administration**; University of Wisconsin - Stout
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
-
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
-
-    *Minor: Awesomeology*
+    *Minor: Information Technology*
 
 Experience
 ----------
 
-**Your Most Recent Work Experience:**
+**Clockwork - Senior Operations Engineer | Software Engineer**
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+_2024 - Present_
 
-* First item
+**Clockwork - Senior Operations Engineer**
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+_2021 - 2024_
 
-**That Other Job You Had**
+* Reduced AWS spend by 70% while simultaneously reducing technical debt
 
-Also with a short description.
+* Developed a private, secure LLM trained on client data, improving team efficiency and onboarding
 
-Technical Experience
+* Implemented a new VPN solution to enhance security
+
+* Organized AWS infrastructure and client infrastructure into a unified organization and implemented Google Workspaces SSO for all AWS accounts
+
+* Conducted performance tuning and optimization for high-traffic applications
+
+**Clockwork - Operations Engineer**
+
+_2016 - 2021_
+
+* Planned/executed datacenter and cloud migrations that required significant adaptation for a monolithicly architected bespoke CMS 
+
+* Rearchitected a hosting environment for a $500+ million dollar company to meet their high traffic demands and security constraints
+
+* Developed a microservice architecture for a health insurance company that uses multiple AWS services & adheres to HIPAA compliance
+
+* Manage and lead the operations team on infrastructure delivery
+
+**Regis Corporation - Systems Administrator**
+
+_2011 - 2016_
+
+* Scheduled, organized & executed software rollouts across 6700 locations in the U.S. and Canada
+
+* Implemented a configuration management system to minimize configuration drift
+
+Skills
 --------------------
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+**Version Control**: Git **/** SVN
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
+**Build Management**: Packer **/** Bitbucket Pipelines **/** Github Actions **/** Gitlab CI/CD Pipelines
 
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
+**Configuration Management**: Puppet **/** Ansible
 
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
+**Monitoring and Logging**: Nagios **/** Cloudwatch **/** New Relic
 
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
+**Infrastructure as Code**: Terraform **/** Cloudformation
 
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
+**Cloud & Containers**: AWS **/** GCP **/** Azure **/** Docker
 
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
+**Certifications**: [AWS Solutions Architect](https://www.youracclaim.com/badges/22598b0f-7de0-4285-a433-81174fb1737a) **/** [AWS SysOps Administrator](https://www.youracclaim.com/badges/9fc5633f-7b50-4c52-a438-bad94fe517cb)
 
-[ref]: https://github.com/githubuser/superlongprojectname
+**Languages**: Python **/** Bash **/** Ruby **/** PHP **/** SQL **/** HCL
 
-Extra Section, Call it Whatever You Want
-----------------------------------------
-
-* Human Languages:
-
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
-
-* Random tidbit
-
-* Other sort of impressive-sounding thing you did
-
-----
-
-> <email@example.com> • +00 (0)00 000 0000 • XX years old\
-> address - Mytown, Mycountry
+--------------
+> <nelemansc@gmail.com> • +1 (507) 461-2245
+> Minneapolis, Minnesota
