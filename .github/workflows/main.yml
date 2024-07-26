@@ -23,6 +23,9 @@ jobs:
       - name: Test directory contents
         run: 'ls -al'
 
+      - name: Tell me where I am
+        run: 'pwd'
+
       - name: Build resume
         uses: ./actions
 
